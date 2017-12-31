@@ -52,15 +52,19 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
   - [나의 첫 Django 앱 만들기](https://www.inflearn.com/course/%EB%82%98%EC%9D%98-%EC%B2%AB-django-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/), 2016, 인프런
   - [Django 초보 가이드 - 실습을 통해 알아보는 장고 입문](https://www.inflearn.com/course/django-%EC%B4%88%EB%B3%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%8B%A4%EC%8A%B5%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9E%A5%EA%B3%A0-%EC%9E%85%EB%AC%B8/), 2016, onecue
   - **[파이썬 웹 프로그래밍 - Django로 웹 서비스 개발하기](https://www.inflearn.com/course/django-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%A5%EA%B3%A0-%EA%B0%95%EC%A2%8C/), 2016, Hoyoung Jung**
+- Google Analytics
+  - [구글 애널리틱스를 활용한 데이터분석 기법 ](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKTn3wbY-NjWsu1iYNjebbK), 2017, SKtechx Tacademy
 
 ### 수학과 통계학
 - [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3), 2013, 이상화
 - [확률과 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V), 2014, 이상화
 
 ### 데이터 엔지니어링
+- [데이터베이스 기초](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD), 2016, 하석재
 - [생활코딩 - mysql 강좌](https://www.inflearn.com/course/mysql-%EA%B0%95%EC%A2%8C/), 2016, 생활코딩
 - [ELK 스택 (ElasticSearch, Logstash, Kibana) 으로 데이터 분석](https://www.inflearn.com/course/elk-%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/), 2016, Minsuk Heo
-- [MongoDB - Javascript로 배우는 NoSQL DB](https://www.inflearn.com/course/mongodb_grammar_basics/), 2017, Seoung Ho Jeoung
+- [데이터베이스 기초](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD), 2016, 하석재
+- [MongoDB 프로그래밍](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI73kv66lK2aWmMuQ-vBZwF), 2016, 정근호
 
 ### 머신러닝
 - [머신러닝 이론 및 파이썬 실습](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%A1%A0-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5/), 2017, Minsuk Heo
