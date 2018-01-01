@@ -23,9 +23,14 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
   - [Git 과 Redmine 으로 하는 프로젝트 관리](https://www.inflearn.com/course/git-redmine-gitflow/), 2016, 가람
   - [10분만에 배우는 깃헙(github) 기본기](https://www.inflearn.com/course/github-%EA%B8%B0%EB%B3%B8%EA%B8%B0-10%EB%B6%84/), 2016, 유명재
   - **[Git & Github](https://www.youtube.com/playlist?list=PLBHVuYlKEkULuUe_Ca3wiaFon6dPWIWAZ), 2016, 최성철**
-
 - 클라우드
   - **[초보자를 위한 AWS 클라우드 시작하기](https://www.inflearn.com/course/aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/), AWS, 2017**
+- 실습
+  - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+  - [Learn Git](https://www.codecademy.com/learn/learn-git)
+  - [Learn Python](https://www.codecademy.com/learn/learn-python)
+  - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+  - [Learn Java](https://www.codecademy.com/learn/learn-java)
 
 ### 자료구조 및 알고리즘
 - [C로 배우는 자료구조 및 여러가지 예제 실습](https://www.inflearn.com/course/c%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EC%98%88%EC%A0%9C-%EC%8B%A4%EC%8A%B5/), 2017, 권오흠
@@ -36,13 +41,11 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
 
 ### 웹 프로그래밍
 - HTML
-  - [
-생활코딩 – HTML 기초](https://www.inflearn.com/course/html-%EA%B8%B0%EC%B4%88/), 2016, 생활코딩
+  - [생활코딩 – HTML 기초](https://www.inflearn.com/course/html-%EA%B8%B0%EC%B4%88/), 2016, 생활코딩
 - CSS
   - [CSS 기본부터 활용까지](https://www.inflearn.com/course/css-%EA%B8%B0%EB%B3%B8%EB%B6%80%ED%84%B0-%ED%99%9C%EC%9A%A9%EA%B9%8C%EC%A7%80/), 2016, 생활코딩
 - Java Script
   - [자바스크립트 언어 기본 - javascript](https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8/), 2016, 생활코딩
-- Jquery
   - [생활코딩 jQuery 강좌](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-jquery-%EA%B0%95%EC%A2%8C/), 2016, 생활코딩
   - [퍼블리셔, 신입 프론트 개발자를 위한 실무에서 써먹는 실전 jQuery 설명서](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-jquery-%EC%84%A4%EB%AA%85%EC%84%9C/), 2016, 개발로짜
 - 부트스트랩
@@ -54,10 +57,23 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
   - **[파이썬 웹 프로그래밍 - Django로 웹 서비스 개발하기](https://www.inflearn.com/course/django-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%A5%EA%B3%A0-%EA%B0%95%EC%A2%8C/), 2016, Hoyoung Jung**
 - Google Analytics
   - [구글 애널리틱스를 활용한 데이터분석 기법 ](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKTn3wbY-NjWsu1iYNjebbK), 2017, SKtechx Tacademy
-
+- 실습
+  - [Learn HTML
+](https://www.codecademy.com/learn/learn-html)
+  - [Learn CSS](https://www.codecademy.com/learn/learn-css)
+  - [Make a Website](https://www.codecademy.com/learn/make-a-website)
+  - [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+  - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+  - [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)
 ### 수학과 통계학
 - [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3), 2013, 이상화
 - [확률과 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V), 2014, 이상화
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), 2017, 3Blue1Brown
+- [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), 2017, 3Blue1Brown
+- [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+- [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+- [AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+- [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 ### 데이터 엔지니어링
 - [데이터베이스 기초](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD), 2016, 하석재
@@ -65,6 +81,12 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
 - [ELK 스택 (ElasticSearch, Logstash, Kibana) 으로 데이터 분석](https://www.inflearn.com/course/elk-%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/), 2016, Minsuk Heo
 - [데이터베이스 기초](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD), 2016, 하석재
 - [MongoDB 프로그래밍](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI73kv66lK2aWmMuQ-vBZwF), 2016, 정근호
+- 실습
+  - [Learn SQL](https://www.codecademy.com/learn/learn-sql()
+  - [SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+  - [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+  - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+
 
 ### 머신러닝
 - [머신러닝 이론 및 파이썬 실습](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%A1%A0-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5/), 2017, Minsuk Heo
