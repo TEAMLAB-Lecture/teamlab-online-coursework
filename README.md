@@ -67,6 +67,7 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
   - [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)
 ### 수학과 통계학
 - [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3), 2013, 이상화
+- [Coding the Matrix](http://cs.brown.edu/courses/cs053/current/lectures.htm), 2017, Phil Klein
 - [확률과 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V), 2014, 이상화
 - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), 2017, 3Blue1Brown
 - [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), 2017, 3Blue1Brown
@@ -74,6 +75,7 @@ Created by [Sungchul Choi](https://github.com/blissray), Director of [TEAMLAB](h
 - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 - [AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
 - [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/info), 2015 
 
 ### 데이터 엔지니어링
 - [데이터베이스 기초](https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD), 2016, 하석재
